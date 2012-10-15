@@ -1,6 +1,9 @@
 Times
 =====
 
+Build status:  
+[![Build Status](https://secure.travis-ci.org/svetlyak40wt/times.png)](http://travis-ci.org/svetlyak40wt/times)
+
 Times is a small, minimalistic, Python library for dealing with time
 conversions to and from timezones, for once and for all.
 
